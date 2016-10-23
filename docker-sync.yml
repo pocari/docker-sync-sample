@@ -1,0 +1,5 @@
+syncs:
+  sync-volume:
+    src: '.'
+    dest: '/var/test'
+    sync_strategy: 'unison'
